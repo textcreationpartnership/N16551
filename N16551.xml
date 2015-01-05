@@ -108,7 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021269_0001_0FB2B53DC7C14678" rendition="simple:additions"/>
+            <pb facs="unknown:021269_0001_0FB2B53DC7C14678"
+                rendition="simple:additions"/>
             <p>SLAVERY, A POEM. BY HANNAH MORE.</p>
             <q>
                <l>O great deſign!</l>
@@ -122,7 +123,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:021269_0002_0FB2B53F454D6FE8"/>
+            <pb facs="unknown:021269_0002_0FB2B53F454D6FE8"/>
             <head>SLAVERY, A POEM.</head>
             <lg>
                <l>IF Heaven has into being deign'd to call</l>
@@ -138,7 +139,7 @@
                <l>Since there is no convexity in MIND,</l>
                <l>Why are thy genial beams to parts conſin'd?</l>
                <l>
-                  <pb n="4" facs="tcp:021269_0003_0FB2B540C3E1B2B8"/>While the chill North with thy bright ray is bleſt,</l>
+                  <pb n="4" facs="unknown:021269_0003_0FB2B540C3E1B2B8"/>While the chill North with thy bright ray is bleſt,</l>
                <l>Why ſhould fell darkneſs half the South inveſt?</l>
                <l>Was it decreed, fair Freedom! at thy birth,</l>
                <l>That thou ſhou'd'ſt ne'er irradiate <hi>all</hi> the earth?</l>
@@ -161,7 +162,7 @@
                <l>Convuls'd her voice, and peſtilent her breath,</l>
                <l>She raves of mercy, while ſhe deals out death:</l>
                <l>
-                  <pb n="5" facs="tcp:021269_0004_0FB2B54429BF4D38"/>Each blaſt is fate; ſhe darts from either hand</l>
+                  <pb n="5" facs="unknown:021269_0004_0FB2B54429BF4D38"/>Each blaſt is fate; ſhe darts from either hand</l>
                <l>Red conflagration o'er th' aſtoniſh'd land;</l>
                <l>Clamouring for peace, ſhe rends the air with noiſe,</l>
                <l>And to reform a part, the whole deſtroys.</l>
@@ -184,7 +185,7 @@
                <l>Tho' not to me, ſweet Bard, thy pow'rs belong,</l>
                <l>Fair Truth, a hallow'd guide! inſpires my ſong.</l>
                <l>
-                  <pb n="6" facs="tcp:021269_0005_0FB2B54697838418"/>Here Art wou'd weave her gayeſt flow'rs in vain,</l>
+                  <pb n="6" facs="unknown:021269_0005_0FB2B54697838418"/>Here Art wou'd weave her gayeſt flow'rs in vain,</l>
                <l>For Truth the bright invention wou'd diſdain.</l>
                <l>For no <gap reason="illegible" resp="#PDCC" extent="5 letters">
                      <desc>•••••</desc>
@@ -211,7 +212,7 @@
                <l>For they have keen affections, kind deſires,</l>
                <l>Love ſtrong as death, and active patriot fires;</l>
                <l>
-                  <pb n="7" facs="tcp:021269_0006_0FB2B54786E49660"/>All the rude energy, the fervid flame,</l>
+                  <pb n="7" facs="unknown:021269_0006_0FB2B54786E49660"/>All the rude energy, the fervid flame,</l>
                <l>Of high-ſoul'd paſſion, and ingenuous ſhame:</l>
                <l>Strong, but luxuriant virtues boldly ſhoot</l>
                <l>From the wild vigor of a ſavage root.</l>
@@ -233,7 +234,7 @@
                   </note> Qua-ſhi! ſhall thy deeds relate,</l>
                <l>No ſtatue ſnatch thee from oblivious fate!</l>
                <l>
-                  <pb n="8" facs="tcp:021269_0007_0FB2B549281B7C90"/>For thou waſt born where never gentle Muſe</l>
+                  <pb n="8" facs="unknown:021269_0007_0FB2B549281B7C90"/>For thou waſt born where never gentle Muſe</l>
                <l>On Valour's grave the flow'rs of Genius ſtrews;</l>
                <l>And thou waſt born where no recording page</l>
                <l>Plucks the fair deed from Time's devouring rage.</l>
@@ -248,7 +249,7 @@
                <l>Whene'er to Afric's ſhores I turn my eyes,</l>
                <l>Horrors of deepeſt, deadlieſt guilt ariſe;</l>
                <l>
-                  <pb n="9" facs="tcp:021269_0008_0FB2B54A96F774A0"/>I ſee, by more than Fancy's mirror ſhewn,</l>
+                  <pb n="9" facs="unknown:021269_0008_0FB2B54A96F774A0"/>I ſee, by more than Fancy's mirror ſhewn,</l>
                <l>The burning village, and the blazing town;</l>
                <l>See the dire victim torn from ſocial life,</l>
                <l>The ſhrieking babe, the agonizing wife!</l>
@@ -273,7 +274,7 @@
                <l>Revere affections mingled with our frame,</l>
                <l>In every nature, every clime the ſame;</l>
                <l>
-                  <pb n="10" facs="tcp:021269_0009_0FB2B54C0D6DF148"/>In all, theſe feelings equal ſway maintain;</l>
+                  <pb n="10" facs="unknown:021269_0009_0FB2B54C0D6DF148"/>In all, theſe feelings equal ſway maintain;</l>
                <l>In all the love of HOME and FREEDOM reign:</l>
                <l>And Tempe's vale, and parch'd Angola's ſand,</l>
                <l>One equal fondneſs of their ſons command.</l>
@@ -294,7 +295,7 @@
                <l>What ſtrange offence, what aggravated ſin?</l>
                <l>They ſtand convicted—of a darker ſkin!</l>
                <l>
-                  <pb n="11" facs="tcp:021269_0010_0FB2B54EE63A83A8"/>Barbarians, hold! th' opprebrious commerce ſpare,</l>
+                  <pb n="11" facs="unknown:021269_0010_0FB2B54EE63A83A8"/>Barbarians, hold! th' opprebrious commerce ſpare,</l>
                <l>Reſpect <hi>his</hi> ſacred image which they bear:</l>
                <l>Tho' dark and ſavage, ignorant and blind,</l>
                <l>They claim the common privilege of kind;</l>
@@ -315,7 +316,7 @@
                <l>Tho' wit may boaſt a livelier dread of ſhame,</l>
                <l>A loftier ſenſe of wrong refinement claim;</l>
                <l>
-                  <pb n="12" facs="tcp:021269_0011_0FB2B54FE465EEA0"/>Tho' poliſh'd manners may freſh wants invent,</l>
+                  <pb n="12" facs="unknown:021269_0011_0FB2B54FE465EEA0"/>Tho' poliſh'd manners may freſh wants invent,</l>
                <l>And nice diſtinctions nicer ſouls torment;</l>
                <l>Tho' theſe on ſiner ſpirits heavier fall,</l>
                <l>Yet natural evils are the ſame to all.</l>
@@ -339,7 +340,7 @@
                <l>When the fierce Sun darts vertical his beams,</l>
                <l>And thirſt and hunger mix their wild extremes;</l>
                <l>
-                  <pb n="13" facs="tcp:021269_0012_0FB2B5514404B3A8"/>When the ſharp iron<note n="*" place="bottom">This is not ſaid figuratively. The writer of theſe lines has ſeen a complete ſet of chains, ſitted to every ſeparate limb of theſe unhappy, innocent men; together with inſtruments for wrenching open the jaws, contrived with ſuch ingenious cruelty as would ſhock the humanity of an inquiſitor.</note> wounds his inmoſt ſoul,</l>
+                  <pb n="13" facs="unknown:021269_0012_0FB2B5514404B3A8"/>When the ſharp iron<note n="*" place="bottom">This is not ſaid figuratively. The writer of theſe lines has ſeen a complete ſet of chains, ſitted to every ſeparate limb of theſe unhappy, innocent men; together with inſtruments for wrenching open the jaws, contrived with ſuch ingenious cruelty as would ſhock the humanity of an inquiſitor.</note> wounds his inmoſt ſoul,</l>
                <l>And his ſtrain'd eyes in burning anguiſh roll;</l>
                <l>Will the parch'd negro find, ere he expire,</l>
                <l>No pain in hunger, and no heat in fire?</l>
@@ -358,7 +359,7 @@
                <l>Savage! thy venial error I deplore,</l>
                <l>They are <hi>not</hi> Chriſtians who inſeſt thy ſhore.</l>
                <l>
-                  <pb n="14" facs="tcp:021269_0013_0FB2B5548012E7D8"/>O thou ſad ſpirit, whoſe prepoſterous yoke</l>
+                  <pb n="14" facs="unknown:021269_0013_0FB2B5548012E7D8"/>O thou ſad ſpirit, whoſe prepoſterous yoke</l>
                <l>The great deliverer Death, at length, has broke!</l>
                <l>Releas'd from miſery, and eſcap'd from care,</l>
                <l>Go, meet that mercy man deny'd thee here.</l>
@@ -379,7 +380,7 @@
                <l>On <hi>thee</hi> no awful judge incens'd ſhall ſit</l>
                <l>For parts perverted, and diſhonor'd wit.</l>
                <l>
-                  <pb n="15" facs="tcp:021269_0014_0FB2B559162E8338"/>Where ignorance will be found the ſureſt plea,</l>
+                  <pb n="15" facs="unknown:021269_0014_0FB2B559162E8338"/>Where ignorance will be found the ſureſt plea,</l>
                <l>How many learn'd and wiſe ſhall envy <hi>thee!</hi>
                </l>
             </lg>
@@ -403,7 +404,7 @@
                <l>Who makes the ſum of human bleſſings leſs,</l>
                <l>Or ſinks the ſtock of general happineſs,</l>
                <l>
-                  <pb n="16" facs="tcp:021269_0015_0FB2B55B861E0270"/>No ſolid fame ſhall grace, no true renown,</l>
+                  <pb n="16" facs="unknown:021269_0015_0FB2B55B861E0270"/>No ſolid fame ſhall grace, no true renown,</l>
                <l>His life ſhall blazon, or his memory crown.</l>
             </lg>
             <lg>
@@ -426,7 +427,7 @@
                <l>No blood-ſtain'd laurels crown'd thy virtuous toil,</l>
                <l>No ſlaughter'd natives drench'd thy fair-earn'd ſoil.</l>
                <l>
-                  <pb n="17" facs="tcp:021269_0016_0FB2B55D74E4DCF0"/>Still thy meek ſpirit in thy<note n="*" place="bottom">The Quakers have emancipated all their ſlaves throughout America.</note> flock ſurvives,</l>
+                  <pb n="17" facs="unknown:021269_0016_0FB2B55D74E4DCF0"/>Still thy meek ſpirit in thy<note n="*" place="bottom">The Quakers have emancipated all their ſlaves throughout America.</note> flock ſurvives,</l>
                <l>Conſiſtent ſtill, <hi>their</hi> doctrines rule their lives;</l>
                <l>Thy followers only have effac'd the ſhame</l>
                <l>Inſcrib'd by SLAVERY on the Chriſtian name.</l>
@@ -451,7 +452,7 @@
                <l>And ſee, the cherub Mercy from above,</l>
                <l>Deſcending ſoftly, quits the ſphere of love!</l>
                <l>
-                  <pb n="18" facs="tcp:021269_0017_0FB2B56087934138"/>On feeling hearts ſhe ſheds celeſtial dew,</l>
+                  <pb n="18" facs="unknown:021269_0017_0FB2B56087934138"/>On feeling hearts ſhe ſheds celeſtial dew,</l>
                <l>And breathes her ſpirit o'er th' enlighten'd few,</l>
                <l>From ſoul to ſoul the ſpreading influence ſteals;</l>
                <l>Till every breaſt the ſoft contagion feels.</l>
@@ -474,7 +475,7 @@
                <l>She tears the banner ſtain'd with blood and tears,</l>
                <l>And, LIBERTY, thy ſhining ſtandard rears!</l>
                <l>
-                  <pb n="19" facs="tcp:021269_0018_0FB2B562A4AE6D38"/>As the bright enſign's glory ſhe diſplays,</l>
+                  <pb n="19" facs="unknown:021269_0018_0FB2B562A4AE6D38"/>As the bright enſign's glory ſhe diſplays,</l>
                <l>See pale OPPRESSION faints beneath the blaze!</l>
                <l>The giant dies, no more his frown appals,</l>
                <l>The chain untouch'd, drops off, the fetter falls,</l>
